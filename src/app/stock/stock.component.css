@@ -1,0 +1,70 @@
+.title{
+    padding-left: 2cm;
+    padding-top: 0.5em;
+    border-right: 5cm;
+    font-size: xxx-large;
+    font-weight: 500;
+    color:green;
+
+}
+
+.divTable{
+    padding: 1em;
+    margin-top: 2em;
+    margin-left: 1em;
+    margin-right: 1em;
+    font-size:large;
+    
+}
+
+.table{
+    border-top-style: hidden;
+    table-layout:auto;
+    font-weight: bold;
+    text-align: center;
+    table-layout: fixed;
+
+  }
+
+.tableTitles{
+    font-size:x-large;
+    color:green;
+  }
+
+#barra{
+    font-size: larger
+}
+#busqueda{
+    font-size: x-large;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color:darkgreen;
+    padding-inline-end: 5cm;
+}
+#barraBusqueda{
+    padding-top: 1cm;
+    float: right
+}
+.bottonAdd{
+    font-weight: bold;
+    flex:auto;
+    text-align: Center;
+    border-radius: 4px;
+    display:inline-flex;
+    padding: 5px 25px;
+    color:white;
+    text-align-last: center;
+    border-style: hidden;
+    background-color: green;
+}
+.bottonMore{
+    font-weight: bold;
+    flex:auto;
+    text-align: Center;
+    border-radius: 4px;
+    display:inline-flex;
+    padding: 5px 25px;
+    color:white;
+    text-align-last: center;
+    border-style: hidden;
+    background-color: darkgrey;
+}

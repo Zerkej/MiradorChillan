@@ -1,0 +1,26 @@
+ngb-carousel{
+    background-color: rgb(2, 126, 43);
+}
+.carousel-caption{
+    text-align: right;
+    font-size: 50px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+
+.subcaption{
+   font-size: 20px;
+   font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+.texto-cabezal{
+    font-style:  oblique;
+    margin-left: 340px;
+    font-size: 50px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.subtexto-cabezal{
+    margin-left: 340px;
+    font-size: 16px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
